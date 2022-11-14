@@ -15,8 +15,8 @@
 <p>
   <img src="https://img.shields.io/badge/WEB-blue?style=for-the-badge&logo=Internet Explorer&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=html5&logoColor=#e34f27">
-  <img src="https://img.shields.io/badge/JS-333?style=for-the-badge&logo=javascript&logoColor=#e34f27">
   <img src="https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/JS-333?style=for-the-badge&logo=javascript&logoColor=#e34f27">
   <img src="https://img.shields.io/badge/BOOTSTRAP-333?style=for-the-badge&logo=bootstrap&logoColor=#7951b2">
 </p>
 
