@@ -1,2 +1,4 @@
-# welcome
-readme for GitHub profile.
+- 👋 Hi, I’m @smir-ant
+- 👀 I’m interested in python, ds, ml, web
+- 🌱 I’m currently learning everything :)
+- ⚡️ Young and ambitious
