@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/84059957/201756437-d1721a57-7bb1-4199-8f21-09d2a4543320.gif)" />
+  <img src="https://user-images.githubusercontent.com/84059957/201756437-d1721a57-7bb1-4199-8f21-09d2a4543320.gif" />
 </p>
 
 
