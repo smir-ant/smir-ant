@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img style="width:100vw;" src="https://user-images.githubusercontent.com/84059957/201756437-d1721a57-7bb1-4199-8f21-09d2a4543320.gif" />
+  <img style="width:100vw;" src="https://user-images.githubusercontent.com/84059957/201757709-8eca33f0-427b-4e0a-bac5-1e662d927572.gif" />
 </p>
+
 
 
 - 👋 Hi, I’m @smir-ant
