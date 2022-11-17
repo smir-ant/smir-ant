@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome! </h1>
-  
+
+<!-- Gifки: gifer.com/ru/gifs/%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9 + tenor.com -->
 <picture align="left">
-  <!-- Gifки: gifer.com/ru/gifs/%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9 -->
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84059957/202554363-d8583149-6b08-4341-b404-fd722a7df6ca.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84059957/202554022-fdb96cf1-2323-4ae6-9e98-f24a34c9b12b.gif">
   <img align="left" title="🌙 - попугай. 🔆 - собака." src="">
