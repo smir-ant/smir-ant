@@ -2,32 +2,47 @@
 
 
 <h1 align="center"> Welcome! </h1>
+  
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84059957/202554363-d8583149-6b08-4341-b404-fd722a7df6ca.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84059957/202554022-fdb96cf1-2323-4ae6-9e98-f24a34c9b12b.gif">
+  <img align="left" title="Абу" src="">
+</picture>
 
-<img align="left" src="https://user-images.githubusercontent.com/84059957/201779799-6f26927d-7ce2-45e2-aa1a-e66092e2b684.gif">
 <p> 🇷🇺 Россия. <br> ⚡️ Молодой и заряженный.</p>
 
+<!-- Стек.
+Шильдики: shields.io/ 
+Иконки: simpleicons.org/ 
+-->
 <p>
-  <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=Python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/FLASK-333?style=for-the-badge&logo=Flask&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLITE-333?style=for-the-badge&logo=SQLite&logoColor=white">
+  <a href="#"> <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=Python&logoColor=white"> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/FLASK-333?style=for-the-badge&logo=Flask&logoColor=white"> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/SQLITE-333?style=for-the-badge&logo=SQLite&logoColor=white"> </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/WEB-blue?style=for-the-badge&logo=Internet Explorer&logoColor=white"> 
-  <img src="https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=html5&logoColor=#e34f27">
-  <img src="https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css3&logoColor=blue">
-  <img src="https://img.shields.io/badge/JS-333?style=for-the-badge&logo=javascript&logoColor=#e34f27">
-  <img src="https://img.shields.io/badge/BOOTSTRAP-333?style=for-the-badge&logo=bootstrap&logoColor=#7951b2">
+  <a href="#"> <img src="https://img.shields.io/badge/WEB-blue?style=for-the-badge&logo=Internet Explorer&logoColor=white">  </a>
+  <a href="#"> <img src="https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=html5&logoColor=#e34f27"> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css3&logoColor=blue"> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/JS-333?style=for-the-badge&logo=javascript&logoColor=#e34f27"> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/BOOTSTRAP-333?style=for-the-badge&logo=bootstrap&logoColor=#7951b2"> </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/GIT-333?style=for-the-badge&logo=git&logoColor=#ef5032"> 
-  <img src="https://img.shields.io/badge/GITHUB-333?style=for-the-badge&logo=github&logoColor=white"> 
+  <a href="#"> <img src="https://img.shields.io/badge/GIT-333?style=for-the-badge&logo=git&logoColor=#ef5032">  </a>
+  <a href="#"> <img src="https://img.shields.io/badge/GITHUB-333?style=for-the-badge&logo=github&logoColor=white">  </a>
 </p>
 
+<details>
+  <summary>🏆 Достижения</summary>
+  <!-- Лютый конструктор: https://metrics.lecoq.io/ -->
+  <a href="#"> <img src="https://metrics.lecoq.io/smir-ant?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=deployer&config.timezone=Asia%2FNovokuznetsk"> </a>
+</details>
 
-<!-- Красивости туть: github.com/anuraghazra/github-readme-stats -->
-<table align="center">
-  <td> <img src="https://github-readme-stats.vercel.app/api?username=smir-ant&show_icons=true&theme=dark&bg_color=45,e86445,904e95&text_color=ffffff&custom_title=Статистика&locale=ru&count_private=true&hide=prs,issues,contribs"> </td>
-  <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&layout=compact&locale=ru&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)"> </td>
-</table>
+
+<a href="#"> <img align="left" style="height:125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&layout=compact&locale=ru&langs_count=4"> </a>
+
+<!-- Трофеи: https://github.com/ryo-ma/github-profile-trophy -->
+<a href="#"><img align="left" style="height:125px" src="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Followers,Commit&column=2&theme=gitdimmed&margin-w=10&no-frame=true"></a>
+
