@@ -6,7 +6,7 @@
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84059957/202554363-d8583149-6b08-4341-b404-fd722a7df6ca.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84059957/202554022-fdb96cf1-2323-4ae6-9e98-f24a34c9b12b.gif">
-  <img align="left" title="Абу" src="">
+  <img align="left" title="🌙 - попугай. 🔆 - собака." src="">
 </picture>
 
 <p> 🇷🇺 Россия. <br> ⚡️ Молодой и заряженный.</p>
