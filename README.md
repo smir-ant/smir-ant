@@ -16,8 +16,8 @@
 Иконки: simpleicons.org/ 
 -->
 <p>
-  <a href="#"> <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=Python&logoColor=white"> </a>
-  <a href="#"> <img src="https://img.shields.io/badge/FLASK-333?style=for-the-badge&logo=Flask&logoColor=white"> </a>
+  <a style="text-decoration: none;" href="#"> <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=Python&logoColor=white"> </a>
+  <a style="text-decoration: none;" href="#"> <img src="https://img.shields.io/badge/FLASK-333?style=for-the-badge&logo=Flask&logoColor=white"> </a>
   <a href="#"> <img src="https://img.shields.io/badge/SQLITE-333?style=for-the-badge&logo=SQLite&logoColor=white"> </a>
 </p>
 
