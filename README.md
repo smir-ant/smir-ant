@@ -69,15 +69,15 @@
 <a href="#"> <img width="100%" src="https://user-images.githubusercontent.com/84059957/202746520-fed1115a-0ea3-4a39-a3e9-6b832dbc83e4.png"> </a>
 
 <!-- Статистика: github.com/anuraghazra/github-readme-stats -->
-<a href="#"> <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&layout=compact&locale=ru&langs_count=4"> </a>
+<a href="#"> <img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&layout=compact&locale=ru&langs_count=4"> </a>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&layout=compact&locale=ru&langs_count=4 -->
 
 <!-- Трофеи: github.com/ryo-ma/github-profile-trophy -->
 <!--  p.s. запятая ломала ссылку, помогла замена запятой на %2c  -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Followers%2cCommit&column=2&theme=gitdimmed&margin-w=10&no-frame=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Commit%2cFollowers&column=2&theme=gitdimmed&margin-w=10&no-frame=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Commit%2cFollowers&column=2&theme=flat&margin-w=10">
-    <img height="150px">
+    <img height="130px">
 </picture>
 
 <details >
