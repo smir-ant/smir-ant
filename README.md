@@ -8,7 +8,9 @@
 </picture>
 
 <p> 
-  <picture> <img height="15px;" src="https://user-images.githubusercontent.com/84059957/202560879-ae1fd3f3-94e9-4556-a040-8b714e9024e3.gif"> </picture> Россия. 
+  <picture> 
+    <img height="15px;" src="https://user-images.githubusercontent.com/84059957/202560879-ae1fd3f3-94e9-4556-a040-8b714e9024e3.gif"> 
+  </picture> Россия. 
   <br> 
   ⚡ Молодой и заряженный.
 </p>
@@ -83,5 +85,5 @@
 <details >
   <summary>🏆 Достижения</summary>
   <!-- Лютый конструктор: metrics.lecoq.io/. Размещено через actions-->
-  <a href="#"> <img src="github-metrics.svg"> </a>
+  <picture> <img src="github-metrics.svg"> </picture>
 </details>
