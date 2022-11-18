@@ -8,7 +8,7 @@
 </picture>
 
 <p> 
-  <img style="height:15px;" src="https://user-images.githubusercontent.com/84059957/202560879-ae1fd3f3-94e9-4556-a040-8b714e9024e3.gif"> Россия. 
+  <a href="#"> <img style="height:15px;" src="https://user-images.githubusercontent.com/84059957/202560879-ae1fd3f3-94e9-4556-a040-8b714e9024e3.gif"> </a> Россия. 
   <br> 
   ⚡ Молодой и заряженный.
 </p>
@@ -66,7 +66,7 @@
 </p>
 
 
-<img width="100%" src="https://user-images.githubusercontent.com/84059957/202746520-fed1115a-0ea3-4a39-a3e9-6b832dbc83e4.png">
+<a href="#"> <img width="100%" src="https://user-images.githubusercontent.com/84059957/202746520-fed1115a-0ea3-4a39-a3e9-6b832dbc83e4.png"> </a>
 
 <!-- Статистика: github.com/anuraghazra/github-readme-stats -->
 <a href="#"> <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&layout=compact&locale=ru&langs_count=4"> </a>
