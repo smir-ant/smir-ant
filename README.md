@@ -1,4 +1,27 @@
-<h1 align="center"> Welcome! </h1>
+
+<!-- ```diff
+- R
++ G
+! O
+@@ P @@
+# G
+``` -->
+
+
+<h1>  <!-- Заголовок -->
+<p>  <!-- Контейнер -->
+$$ 
+\textcolor{#CC99C9}{\text{W}}
+\textcolor{#9EC1CF}{\text{e}} 
+\textcolor{#21ADD7}{\text{l}} 
+\textcolor{#9EE09E}{\text{c}} 
+\textcolor{#F4CF47}{\text{o}}  
+\textcolor{#FEB144}{\text{m}} 
+\textcolor{#FF6663}{\text{e}} 
+\text{!}
+$$
+</p>
+</h1>
 
 <!-- Gifки: gifer.com/ru/gifs/%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9 + tenor.com -->
 <picture>
