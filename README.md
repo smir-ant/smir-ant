@@ -1,4 +1,3 @@
-
 <!-- ```diff
 - R
 + G
@@ -27,7 +26,7 @@ $$
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84059957/202723883-20650dc6-c76d-463f-ad3c-f90794a95514.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84059957/202729516-c5fa4808-6c9c-44ed-bf20-b292bf4b6164.gif">
-  <img align="left" height="130px">
+  <img title="🌙 = 🦜, 🔆 = 🌭" align="left" height="130px">
 </picture>
 
 <p> 
@@ -90,8 +89,13 @@ $$
   </picture>
 </p>
 
-
+<!-- ------------------------ -->
 <picture> <img width="100%" src="https://user-images.githubusercontent.com/84059957/202746520-fed1115a-0ea3-4a39-a3e9-6b832dbc83e4.png"> </picture>
+
+<!-- Activity snake: github.com/bylickilabs/Readme-Readme -->
+|<picture><img title="Activity snake" src="https://github.com/smir-ant/smir-ant/blob/output/github-contribution-grid-snake.svg"></picture>|
+|---|
+
 
 <!-- Статистика: github.com/anuraghazra/github-readme-stats -->
 <picture> <img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&layout=compact&langs_count=4&custom_title=Использование&nbsp;языков"> </picture>
