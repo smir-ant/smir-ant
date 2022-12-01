@@ -93,7 +93,7 @@ $$
 <picture> <img width="100%" src="https://user-images.githubusercontent.com/84059957/202746520-fed1115a-0ea3-4a39-a3e9-6b832dbc83e4.png"> </picture>
 
 <!-- Activity snake: github.com/bylickilabs/Readme-Readme -->
-|<picture><img title="Activity snake" src="https://github.com/smir-ant/smir-ant/blob/output/github-contribution-grid-snake.svg"></picture>|
+|<picture><img title="My activity snake" src="https://github.com/smir-ant/smir-ant/blob/output/github-contribution-grid-snake.svg"></picture>|
 |---|
 
 
