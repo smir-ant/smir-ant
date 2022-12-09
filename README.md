@@ -104,8 +104,8 @@ $$
 <!-- Трофеи: github.com/ryo-ma/github-profile-trophy -->
 <!--  p.s. запятая ломала ссылку, помогла замена запятой на %2c  -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Commit%2cFollowers&column=2&theme=gitdimmed&margin-w=10&no-frame=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Commit%2cFollowers&column=2&theme=flat&margin-w=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Stars%2cCommit%2cFollowers&column=3&theme=gitdimmed&margin-w=10&no-frame=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Stars%2cCommit%2cFollowers&column=3&theme=flat&margin-w=10">
     <img height="130px">
 </picture>
 
