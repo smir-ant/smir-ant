@@ -98,9 +98,10 @@ $$
 
 
 <!-- Статистика: github.com/anuraghazra/github-readme-stats -->
+<!-- Захостил на vercel чтобы не падало :) -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=4&custom_title=Использование&nbsp;языков">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smir-ant&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4&custom_title=Использование&nbsp;языков">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gp62x7f76-smir-ant.vercel.app/api/top-langs/?username=smir-ant&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=4&custom_title=Использование&nbsp;языков">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-gp62x7f76-smir-ant.vercel.app/api/top-langs/?username=smir-ant&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4&custom_title=Использование&nbsp;языков">
     <img height="130px" align="left">
 </picture>
 
