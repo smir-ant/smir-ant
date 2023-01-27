@@ -29,65 +29,13 @@ $$
   <img title="🌙 = 🦜, 🔆 = 🌭" align="left" height="130px">
 </picture>
 
-<p> 
-  <picture> 
-    <img height="15px;" src="https://user-images.githubusercontent.com/84059957/202560879-ae1fd3f3-94e9-4556-a040-8b714e9024e3.gif"> 
-  </picture> Россия. 
-  <br> 
-  ⚡ Молодой и заряженный.
-</p>
-
-<!-- Стек.
-Шильдики: shields.io
-Иконки: simpleicons.org
--->
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PYTHON-333?style=for-the-badge&logo=Python&logoColor=3776AB">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PYTHON-EEE?style=for-the-badge&logo=Python&logoColor=3776AB">
-    <img>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FLASK-333?style=for-the-badge&logo=Flask&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FLASK-EEE?style=for-the-badge&logo=Flask&logoColor=black">
-    <img>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLITE-333?style=for-the-badge&logo=SQLite&logoColor=0e7ec8">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQLITE-EEE?style=for-the-badge&logo=SQLite&logoColor=0e7ec8">
-    <img>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=html5&logoColor=e34f27">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML-EEE?style=for-the-badge&logo=html5&logoColor=e34f27">
-    <img>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css3&logoColor=blue">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-EEE?style=for-the-badge&logo=css3&logoColor=blue">
-    <img>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JS-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JS-EEE?style=for-the-badge&logo=javascript&logoColor=eaba24">
-    <img>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/BOOTSTRAP-333?style=for-the-badge&logo=bootstrap&logoColor=7951b2">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/BOOTSTRAP-EEE?style=for-the-badge&logo=bootstrap&logoColor=7951b2">
-    <img>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GIT-333?style=for-the-badge&logo=git&logoColor=#ef5032">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GIT-EEE?style=for-the-badge&logo=git&logoColor=#ef5032">
-    <img>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-333?style=for-the-badge&logo=github&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GITHUB-EEE?style=for-the-badge&logo=github&logoColor=black">
-    <img>
-  </picture>
-</p>
+```yaml
+⚡ Преподаватель Python и Web;
+🎓 Окончил СибГУТИ и имею музыкальное образование;
+🌱 Я горжусь своей работой, так как вкладываюсь в неё;
+🧑‍💻 Люблю программирование и изучение нового;
+📫 Связь со мной: abcsmir.ant@yandex.ru
+```
 
 <!-- ------------------------ -->
 <picture> <img width="100%" src="https://user-images.githubusercontent.com/84059957/202746520-fed1115a-0ea3-4a39-a3e9-6b832dbc83e4.png"> </picture>
@@ -113,8 +61,111 @@ $$
     <img height="130px">
 </picture>
 
+<!-- разрыв -->
+<picture><img src="https://user-images.githubusercontent.com/84059957/203399419-887c9bb7-421f-4a27-88bc-03fb7eabb8db.png"></picture>
+<!-- Стек.
+Шильдики: shields.io
+Иконки: simpleicons.org
+-->
+<details>
+<summary>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Языки%2c&nbsp;технологии%2c&nbsp;инструменты&nbspи&nbspпрочее-333?style=for-the-badge&logo=HackTheBox&logoColor=fff">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Языки%2c&nbsp;технологии%2c&nbsp;инструменты&nbspи&nbspпрочее-f4f4f4?style=for-the-badge&logo=WindowsTerminal&logoColor=000">
+    <img>
+  </picture>
+</summary>
+<!-- Разграничитель -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84059957/215088292-cf50a16b-422b-43cc-a211-c4169553ca62.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84059957/210322548-b635bad5-c53d-4209-a73e-fb0adcc437bf.png">
+    <img height="0.8">
+  </picture>
+
+<!-- PYTHON -->
+<details>
+<summary>
+  <picture><img src="https://img.shields.io/badge/PYTHON-d9e7f3?style=for-the-badge&logo=Python&logoColor=3776AB"></picture>
+</summary>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/FLASK-d9e7f3?style=for-the-badge&logo=flask&logoColor=black"></picture>
+<picture><img src="https://img.shields.io/badge/numpy-d9e7f3?style=for-the-badge&logo=numpy&logoColor=013243"></picture>
+<picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=CodeSandbox&logoColor=black"></picture>  
+<picture><img src="https://img.shields.io/badge/AIOGRAM-d9e7f3?style=for-the-badge&logo=telegram&logoColor=26A5E4"></picture>
+</p>
+</details>
+
+<!-- WEB -->
+<details>
+<summary>
+  <picture><img src="https://img.shields.io/badge/WEB-d5c7e9?style=for-the-badge&logo=HTML5&logoColor=E34F26"></picture>
+</summary>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/HTML-d5c7e9?style=for-the-badge&logo=html5&logoColor=e34f27"></picture>
+<picture><img src="https://img.shields.io/badge/CSS-d5c7e9?style=for-the-badge&logo=css3&logoColor=blue"></picture>  
+<picture><img src="https://img.shields.io/badge/JS-d5c7e9?style=for-the-badge&logo=javascript&logoColor=e1bd00"></picture>
+<picture><img src="https://img.shields.io/badge/BOOTSTRAP-d5c7e9?style=for-the-badge&logo=bootstrap&logoColor=7951b2"></picture>
+</p>
+</details>
+ 
+
+<!-- DATABASES -->
+<details>
+<summary>
+  <picture><img src="https://img.shields.io/badge/БАЗЫ ДАННЫХ-ffccba?style=for-the-badge&logo=Databricks&logoColor=black"></picture>
+</summary>
+  
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/SQLite-ffccba?style=for-the-badge&logo=SQLITE&logoColor=0e7ec8"></picture>
+</p>
+</details>  
+
+
+<!-- OTHER -->
+<details>
+<summary>
+  <picture><img src="https://img.shields.io/badge/ПРОЧЕЕ-f2ffcf?style=for-the-badge&logo=FeatHub&logoColor=black"></picture>
+</summary>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/GIT-f2ffcf?style=for-the-badge&logo=Git&logoColor=F05032"></picture>
+<picture><img src="https://img.shields.io/badge/GITHUB-f2ffcf?style=for-the-badge&logo=Github&logoColor=181717"></picture>  
+<picture><img src="https://img.shields.io/badge/ARDUINO-f2ffcf?style=for-the-badge&logo=Arduino&logoColor=1a969e"></picture>
+</p>
+</details>
+
+
+<!-- SOFTWARE -->
+<details>
+<summary>
+  <picture><img src="https://img.shields.io/badge/ИНСТРУМЕНТЫ-fff8b5?style=for-the-badge&logo=Modrinth&logoColor=black"></picture>
+</summary>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/VSCode-fff8b5?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC"></picture>
+<picture><img src="https://img.shields.io/badge/Photoshop-fff8b5?style=for-the-badge&logo=AdobePhotoshop&logoColor=0e3e67"></picture>  
+<picture><img src="https://img.shields.io/badge/Notion-fff8b5?style=for-the-badge&logo=Notion&logoColor=black"></picture>
+<picture><img src="https://img.shields.io/badge/Figma-fff8b5?style=for-the-badge&logo=figma&logoColor=fe4201"></picture>
+</p>
+</details>
+  
+
+<!-- Окончание -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84059957/215088776-b06bbe95-42fd-4d78-bcae-70cdbeebbbd3.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84059957/210319906-4f1e79cb-1a45-4e5c-93e9-ae21e197e0b9.png">
+    <img>
+  </picture>
+</details>
+
+
+
 <details >
-  <summary>🏆 Достижения</summary>
+  <summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ДОСТИЖЕНИЯ-333?style=for-the-badge&logo=AwesomeLists&logoColor=f4c400">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ДОСТИЖЕНИЯ-f4f4f4?style=for-the-badge&logo=AwesomeLists&logoColor=f4c400">
+    <img>
+  </picture>
+  </summary>
   <!-- Лютый конструктор: metrics.lecoq.io/. Размещено через actions-->
   <picture> <img src="github-metrics.svg"> </picture>
 </details>
+
