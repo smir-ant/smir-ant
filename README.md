@@ -70,7 +70,7 @@ $$
 <details>
 <summary>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Языки%2c&nbsp;технологии%2c&nbsp;инструменты&nbspи&nbspпрочее-333?style=for-the-badge&logo=HackTheBox&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Языки%2c&nbsp;технологии%2c&nbsp;инструменты&nbspи&nbspпрочее-333?style=for-the-badge&logo=WindowsTerminal&logoColor=fff">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Языки%2c&nbsp;технологии%2c&nbsp;инструменты&nbspи&nbspпрочее-f4f4f4?style=for-the-badge&logo=WindowsTerminal&logoColor=000">
     <img>
   </picture>
@@ -114,8 +114,9 @@ $$
 <summary>
   <picture><img src="https://img.shields.io/badge/БАЗЫ ДАННЫХ-ffccba?style=for-the-badge&logo=Databricks&logoColor=black"></picture>
 </summary>
-  
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/SQLite-ffccba?style=for-the-badge&logo=SQLITE&logoColor=0e7ec8"></picture>
+<picture><img src="https://img.shields.io/badge/PostgreSQL-ffccba?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"></picture>
+<picture><img src="https://img.shields.io/badge/SQLALCHEMY-ffccba?style=for-the-badge&logo=Openlayers&logoColor=cc2307"></picture>
 </p>
 </details>  
 
