@@ -14,14 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -29,7 +21,7 @@ jobs:
           user: smir-ant
           template: classic
           base: ""
-          config_timezone: Asia/Novokuznetsk
+          config_timezone: Asia/Novosibirsk
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_ignored: deployer, infographile, forker
@@ -43,7 +35,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Current configuration doesn't require a GitHub token
           token: NOT_NEEDED
           
           # Options
@@ -55,5 +46,5 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved, recent
+          plugin_leetcode_sections: solved
           plugin_leetcode_user: smir-ant
