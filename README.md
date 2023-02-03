@@ -165,7 +165,7 @@ $$
     <img>
   </picture>
   </summary>
-  <picture> <img src="leetcode.svg"> </picture>
+  <a href="https://leetcode.com/smir-ant/"><img src="leetcode.svg"></a>
 </details>
 
 <!-- Лютый конструктор: metrics.lecoq.io/ 
@@ -178,5 +178,5 @@ $$
     <img>
   </picture>
   </summary>
-  <picture> <img src="github-metrics.svg"> </picture>
+  <picture> <img src="achievements.svg"> </picture>
 </details>
