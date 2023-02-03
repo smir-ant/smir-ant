@@ -90,7 +90,7 @@ $$
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/FLASK-d9e7f3?style=for-the-badge&logo=flask&logoColor=black"></picture>
 <picture><img src="https://img.shields.io/badge/numpy-d9e7f3?style=for-the-badge&logo=numpy&logoColor=013243"></picture>
-<picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=CodeSandbox&logoColor=black"></picture>  
+<picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=Apache&logoColor=3776AB"></picture>  
 <picture><img src="https://img.shields.io/badge/AIOGRAM-d9e7f3?style=for-the-badge&logo=telegram&logoColor=26A5E4"></picture>
 </p>
 </details>
@@ -141,7 +141,8 @@ $$
 </summary>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/VSCode-fff8b5?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC"></picture>
-<picture><img src="https://img.shields.io/badge/Photoshop-fff8b5?style=for-the-badge&logo=AdobePhotoshop&logoColor=0e3e67"></picture>  
+<picture><img src="https://img.shields.io/badge/Photoshop-fff8b5?style=for-the-badge&logo=AdobePhotoshop&logoColor=0e3e67"></picture>
+<picture><img src="https://img.shields.io/badge/Davinci Resolve-fff8b5?style=for-the-badge&logo=Kuaishou&logoColor=0e3e67"></picture> 
 <picture><img src="https://img.shields.io/badge/Notion-fff8b5?style=for-the-badge&logo=Notion&logoColor=black"></picture>
 <picture><img src="https://img.shields.io/badge/Figma-fff8b5?style=for-the-badge&logo=figma&logoColor=fe4201"></picture>
 </p>
