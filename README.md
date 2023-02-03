@@ -156,8 +156,20 @@ $$
   </picture>
 </details>
 
+<!-- Лютый конструктор: metrics.lecoq.io/-->
+<details >
+  <summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Leetcode-333?style=for-the-badge&logo=Leetcode&logoColor=FFA116">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Leetcode-f4f4f4?style=for-the-badge&logo=Leetcode&logoColor=FFA116">
+    <img>
+  </picture>
+  </summary>
+  <picture> <img src="https://metrics.lecoq.io/smir-ant?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&leetcode=false&leetcode.user=smir-ant&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FNovosibirsk"> </picture>
+</details>
 
-
+<!-- Лютый конструктор: metrics.lecoq.io/ 
+Размещено через actions -->
 <details >
   <summary>
   <picture>
@@ -166,7 +178,5 @@ $$
     <img>
   </picture>
   </summary>
-  <!-- Лютый конструктор: metrics.lecoq.io/. Размещено через actions-->
   <picture> <img src="github-metrics.svg"> </picture>
 </details>
-
