@@ -25,6 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          filename: achievements.svg
           user: smir-ant
           template: classic
           base: ""
