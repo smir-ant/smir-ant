@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.05224171539961 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">16</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.180506822612086 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">17</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2565</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.6730462519936204 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">7</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.1977671451355665 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">8</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/627</text>
                                 </svg>
                                 <span class="title">Easy</span>
