@@ -7,8 +7,10 @@
 ``` -->
 
 
-<h1>  <!-- Заголовок -->
-<p>  <!-- Контейнер -->
+
+<!-- Скоты :( Запретили цветной текст в формулах, но на память это останется здесь. Press F. -->
+<!-- <h1>
+<p>
 $$ 
 \textcolor{#CC99C9}{\text{W}}
 \textcolor{#9EC1CF}{\text{e}} 
@@ -20,7 +22,17 @@ $$
 \text{!}
 $$
 </p>
-</h1>
+</h1> -->
+
+<!-- 
+Генератор: https://bokub.github.io/gradient-badge/
+Цвет1: #2d2944
+Цвет2: #3d8fe4 
+-->
+<p align="center">
+  <picture><img height="70" src="https://lva5gehcv8h4.runkit.sh"></pictire>
+  <picture><img height="70" src="https://dmnzldplm358.runkit.sh"></pictire>
+</p>
 
 <!-- Gifки: gifer.com/ru/gifs/%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9 + tenor.com -->
 <picture>
