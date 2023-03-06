@@ -6,8 +6,6 @@
 # G
 ``` -->
 
-
-
 <!-- Скоты :( Запретили цветной текст в формулах, но на память это останется здесь. Press F. -->
 <!-- <h1>
 <p>
@@ -24,23 +22,38 @@ $$
 </p>
 </h1> -->
 
-<!-- 
+
+
+<!-- ==================== Градиентные бэйджи ====================
 Генератор: https://bokub.github.io/gradient-badge/
-Цвет1: #2d2944
-Цвет2: #3d8fe4 
+ТЦвет1: #2d2944
+ТЦвет2: #3d8fe4 
+СЦвет1: #f1dac4
+СЦвет2: #ccc9c4
 -->
 <p align="center">
-  <picture><img height="70" src="https://lva5gehcv8h4.runkit.sh"></pictire>
-  <picture><img height="70" src="https://dmnzldplm358.runkit.sh"></pictire>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lva5gehcv8h4.runkit.sh">
+  <source media="(prefers-color-scheme: light)" srcset="https://evecv0x1txbd.runkit.sh">
+  <img height="70">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dmnzldplm358.runkit.sh">
+  <source media="(prefers-color-scheme: light)" srcset="https://ga5r9tomioep.runkit.sh">
+  <img height="70">
+</picture>
 </p>
 
-<!-- Gifки: gifer.com/ru/gifs/%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9 + tenor.com -->
+
+<!-- ==================== Попугай/сосиска ==================== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84059957/202723883-20650dc6-c76d-463f-ad3c-f90794a95514.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84059957/202729516-c5fa4808-6c9c-44ed-bf20-b292bf4b6164.gif">
   <img title="🌙 = 🦜, 🔆 = 🌭" align="left" height="130px">
 </picture>
 
+
+<!-- ==================== О себе ==================== -->
 ```yaml
 ⚡ Преподаватель Python и Web;
 🎓 Окончил СибГУТИ и имею музыкальное образование;
@@ -52,12 +65,12 @@ $$
 <!-- ------------------------ -->
 <picture> <img width="100%" src="https://user-images.githubusercontent.com/84059957/202746520-fed1115a-0ea3-4a39-a3e9-6b832dbc83e4.png"> </picture>
 
-<!-- Activity snake: github.com/bylickilabs/Readme-Readme -->
+<!-- ==================== Activity snake: github.com/bylickilabs/Readme-Readme  ==================== -->
 |<picture><img title="My activity snake" src="https://github.com/smir-ant/smir-ant/blob/output/github-contribution-grid-snake.svg"></picture>|
 |---|
 
 
-<!-- Статистика: github.com/anuraghazra/github-readme-stats -->
+<!-- ==================== Статистика: github.com/anuraghazra/github-readme-stats ==================== -->
 <!-- Захостил на vercel чтобы не падало :) -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gp62x7f76-smir-ant.vercel.app/api/top-langs/?username=smir-ant&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=4&custom_title=Использование&nbsp;языков">
@@ -65,7 +78,7 @@ $$
     <img height="130px" align="left">
 </picture>
 
-<!-- Трофеи: github.com/ryo-ma/github-profile-trophy -->
+<!-- ==================== Трофеи: github.com/ryo-ma/github-profile-trophy ==================== -->
 <!--  p.s. запятая ломала ссылку, помогла замена запятой на %2c  -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=smir-ant&title=Stars%2cCommit%2cFollowers&column=3&theme=gitdimmed&margin-w=10&no-frame=true">
@@ -75,7 +88,8 @@ $$
 
 <!-- разрыв -->
 <picture><img src="https://user-images.githubusercontent.com/84059957/203399419-887c9bb7-421f-4a27-88bc-03fb7eabb8db.png"></picture>
-<!-- Стек.
+
+<!-- ==================== Стек ====================
 Шильдики: shields.io
 Иконки: simpleicons.org
 -->
@@ -169,7 +183,7 @@ $$
   </picture>
 </details>
 
-<!-- Лютый конструктор: metrics.lecoq.io/-->
+<!-- ==================== LeetCode ==================== -->
 <details >
   <summary>
   <picture>
@@ -181,7 +195,7 @@ $$
   <a href="https://leetcode.com/smir-ant/"><img src="leetcode.svg"></a>
 </details>
 
-<!-- Лютый конструктор: metrics.lecoq.io/ 
+<!-- ==================== Достижения ==================== 
 Размещено через actions -->
 <details >
   <summary>
@@ -193,3 +207,5 @@ $$
   </summary>
   <picture> <img src="achievements.svg"> </picture>
 </details>
+
+<!-- Лютый конструктор: metrics.lecoq.io/ -->
