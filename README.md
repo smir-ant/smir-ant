@@ -6,8 +6,8 @@
 # G
 ``` -->
 
-<!-- Скоты :( Запретили цветной текст в формулах, но на память это останется здесь. Press F. -->
-<!-- <h1>
+<!-- Скоты :( Запретили цветной текст в формулах, но на память это останется здесь. Press F.  upd: то поломался, то починился, кринж :)-->
+<h1>
 <p>
 $$ 
 \textcolor{#CC99C9}{\text{W}}
@@ -20,7 +20,7 @@ $$
 \text{!}
 $$
 </p>
-</h1> -->
+</h1>
 
 
 
@@ -31,7 +31,7 @@ $$
 СЦвет1: #f1dac4
 СЦвет2: #ccc9c4
 -->
-<p align="center">
+<!-- <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://lva5gehcv8h4.runkit.sh">
   <source media="(prefers-color-scheme: light)" srcset="https://evecv0x1txbd.runkit.sh">
@@ -42,7 +42,7 @@ $$
   <source media="(prefers-color-scheme: light)" srcset="https://ga5r9tomioep.runkit.sh">
   <img height="70">
 </picture>
-</p>
+</p> -->
 
 
 <!-- ==================== Попугай/сосиска ==================== -->
