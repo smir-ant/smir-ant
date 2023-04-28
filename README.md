@@ -45,13 +45,8 @@ $$
 </p> -->
 
 
-<!-- ==================== Попугай/сосиска ==================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84059957/202723883-20650dc6-c76d-463f-ad3c-f90794a95514.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84059957/202729516-c5fa4808-6c9c-44ed-bf20-b292bf4b6164.gif">
-  <img title="🌙 = 🦜, 🔆 = 🌭" align="left" height="130px">
-</picture>
-
+<!-- Press F 🦜 https://user-images.githubusercontent.com/84059957/235238648-b006518c-e3d1-41d9-989f-a94c655341bf.gif -->
+<pictire><img align="left" height="130" src="https://user-images.githubusercontent.com/84059957/235241575-5a9ede15-564d-40b8-8df4-64469c52a649.gif"></picture>
 
 <!-- ==================== О себе ==================== -->
 ```yaml
