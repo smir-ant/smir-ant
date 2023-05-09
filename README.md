@@ -7,7 +7,7 @@
 ``` -->
 
 <!-- Скоты :( Запретили цветной текст в формулах, но на память это останется здесь. Press F.  upd: то поломался, то починился, кринж :)-->
-<h1>
+<!-- <h1>
 <p>
 $$ 
 \textcolor{#CC99C9}{\text{W}}
@@ -20,7 +20,9 @@ $$
 \text{!}
 $$
 </p>
-</h1>
+</h1> -->
+
+<p align='center'><picture><img src="https://github.com/smir-ant/smir-ant/assets/84059957/d1d1d26d-fe6b-45b5-8e42-d1cd45cdca98"></picture></p>
 
 
 
