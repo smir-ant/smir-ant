@@ -209,7 +209,7 @@ $$
 
 <!-- ==================== Достижения ==================== 
 Размещено через actions -->
-<details >
+<!-- <details >
   <summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ДОСТИЖЕНИЯ-333?style=for-the-badge&logo=AwesomeLists&logoColor=f4c400">
@@ -218,7 +218,7 @@ $$
   </picture>
   </summary>
   <picture> <img src="achievements.svg"> </picture>
-</details>
+</details> -->
 
 <!-- Лютый конструктор: metrics.lecoq.io/ -->
 
