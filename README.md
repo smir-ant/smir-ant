@@ -192,6 +192,21 @@ $$
   <a href="https://leetcode.com/smir-ant/"><img src="leetcode.svg"></a>
 </details>
 
+<!-- ==================== CodeForces ==================== -->
+<!-- https://github.com/RedHeadphone/Codeforces-readme-stats -->
+<details >
+  <summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CodeForces-333?style=for-the-badge&logo=CodeForces&logoColor=FFA116">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CodeForces-f4f4f4?style=for-the-badge&logo=CodeForces&logoColor=FFA116">
+    <img>
+  </picture>
+  </summary>
+  
+  <a href="https://codeforces.com/profile/smir-ant"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=smir-ant&theme=dark&icon_color=FFA116"></a>
+  
+</details>
+
 <!-- ==================== Достижения ==================== 
 Размещено через actions -->
 <details >
