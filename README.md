@@ -194,7 +194,7 @@ $$
 
 <!-- ==================== CodeForces ==================== -->
 <!-- https://github.com/RedHeadphone/Codeforces-readme-stats -->
-<details >
+<!-- <details >
   <summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CodeForces-333?style=for-the-badge&logo=CodeForces&logoColor=FFA116">
@@ -204,6 +204,21 @@ $$
   </summary>
   
   <a href="https://codeforces.com/profile/smir-ant"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=smir-ant&theme=dark&icon_color=FFA116"></a>
+  
+</details> -->
+
+<!-- ==================== CodeWars ==================== -->
+<!-- https://github.com/ignacio-cuadra/github-readme-codewars -->
+<details >
+  <summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Codewars-333?style=for-the-badge&logo=Codewars&logoColor=FFA116">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Cpdewars-f4f4f4?style=for-the-badge&logo=Codewars&logoColor=FFA116">
+    <img>
+  </picture>
+  </summary>
+  
+  <a href="https://codeforces.com/profile/smir-ant"><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=FFA116"></a>
   
 </details>
 
