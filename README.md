@@ -218,7 +218,7 @@ $$
   </picture>
   </summary>
   
-  <a href="https://codeforces.com/profile/smir-ant"><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=FFA116"></a>
+  <a href="https://www.codewars.com/users/smir-ant"><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=FFA116"></a>
   
 </details>
 
