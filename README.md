@@ -213,13 +213,17 @@ $$
   <summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Codewars-333?style=for-the-badge&logo=Codewars&logoColor=FFA116">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Cpdewars-f4f4f4?style=for-the-badge&logo=Codewars&logoColor=FFA116">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Codewars-f4f4f4?style=for-the-badge&logo=Codewars&logoColor=FFA116">
     <img>
   </picture>
   </summary>
   
-  <a href="https://www.codewars.com/users/smir-ant"><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=FFA116"></a>
-  
+  <a href="https://www.codewars.com/users/smir-ant"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=FFA116">
+    <source media="(prefers-color-scheme: light)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=light&primaryColor=FFA116">
+    <img width="450">
+  </picture></a>
+    
 </details>
 
 <!-- ==================== Достижения ==================== 
@@ -239,10 +243,8 @@ $$
 
 <!-- Каеффный генератор текста: https://readme-typing-svg.demolab.com/demo/ -->
 
-<p align="center"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=38&pause=1000&color=F9CF664A&center=true&vCenter=true&width=435&lines=%D0%A3+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B2%D1%81%D1%91+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%81%D1%8F!+%E2%9C%A8">
-<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3EB489&center=true&multiline=true&width=435&lines=%D0%9A%D0%B5%D0%BC+%D1%81%D1%82%D0%B0%D0%BD%D0%B5%D1%82+%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D1%88%D0%BA%D0%B0+%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0+%D0%B2%D1%8B%D1%80%D0%B0%D1%81%D1%82%D0%B5%D1%82%3F;%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB+%F0%9F%90%A2">
-<img>
-</picture></p>
+<p align="center"><picture><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=38&pause=1000&color=F9CF664A&center=true&vCenter=true&width=435&lines=%D0%A3+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B2%D1%81%D1%91+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%81%D1%8F!+%E2%9C%A8"></picture></p>
+<!-- <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3EB489&center=true&multiline=true&width=435&lines=%D0%9A%D0%B5%D0%BC+%D1%81%D1%82%D0%B0%D0%BD%D0%B5%D1%82+%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D1%88%D0%BA%D0%B0+%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0+%D0%B2%D1%8B%D1%80%D0%B0%D1%81%D1%82%D0%B5%D1%82%3F;%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB+%F0%9F%90%A2"> -->
+
 
 <!-- <p align="center"><picture><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=38&pause=1000&color=F9CF664A&center=true&vCenter=true&width=435&lines=%D0%A3+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B2%D1%81%D1%91+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%81%D1%8F!+%E2%9C%A8"></picture></p> -->
