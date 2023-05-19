@@ -1,3 +1,6 @@
+<!-- Star history: <img src="https://api.star-history.com/svg?repos=AkashSingh3031/The-Complete-FAANG-Preparation&type=Timeline" width="100%" height="100%"> -->
+
+
 <!-- ```diff
 - R
 + G
@@ -212,15 +215,15 @@ $$
 <details >
   <summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Codewars-333?style=for-the-badge&logo=Codewars&logoColor=FFA116">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Codewars-f4f4f4?style=for-the-badge&logo=Codewars&logoColor=FFA116">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Codewars-333?style=for-the-badge&logo=Codewars&logoColor=B1361E">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Codewars-f4f4f4?style=for-the-badge&logo=Codewars&logoColor=B1361E">
     <img>
   </picture>
   </summary>
   
   <a href="https://www.codewars.com/users/smir-ant"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=FFA116">
-    <source media="(prefers-color-scheme: light)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=light&primaryColor=FFA116">
+    <source media="(prefers-color-scheme: dark)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=3c7ebb">
+    <source media="(prefers-color-scheme: light)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=light&primaryColor=3c7ebb">
     <img width="450">
   </picture></a>
     
