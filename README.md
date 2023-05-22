@@ -50,7 +50,8 @@ $$
 
 
 <!-- Press F 🦜 https://user-images.githubusercontent.com/84059957/235238648-b006518c-e3d1-41d9-989f-a94c655341bf.gif -->
-<pictire><img align="left" height="130" src="https://user-images.githubusercontent.com/84059957/235241575-5a9ede15-564d-40b8-8df4-64469c52a649.gif"></picture>
+
+<picture><img align="left" height="130" src="https://user-images.githubusercontent.com/84059957/235241575-5a9ede15-564d-40b8-8df4-64469c52a649.gif"></picture>
 
 <!-- ==================== О себе ==================== -->
 ```yaml
