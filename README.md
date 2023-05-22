@@ -1,3 +1,6 @@
+
+
+
 <!-- Star history: <img src="https://api.star-history.com/svg?repos=AkashSingh3031/The-Complete-FAANG-Preparation&type=Timeline" width="100%" height="100%"> -->
 
 
@@ -68,7 +71,6 @@ $$
 <!-- ==================== Activity snake: github.com/bylickilabs/Readme-Readme  ==================== -->
 |<picture><img title="My activity snake" src="https://github.com/smir-ant/smir-ant/blob/output/github-contribution-grid-snake.svg"></picture>|
 |---|
-
 
 <!-- ==================== Статистика: github.com/anuraghazra/github-readme-stats ==================== -->
 <!-- Захостил на vercel чтобы не падало :) -->
@@ -251,4 +253,13 @@ $$
 <!-- <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3EB489&center=true&multiline=true&width=435&lines=%D0%9A%D0%B5%D0%BC+%D1%81%D1%82%D0%B0%D0%BD%D0%B5%D1%82+%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D1%88%D0%BA%D0%B0+%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0+%D0%B2%D1%8B%D1%80%D0%B0%D1%81%D1%82%D0%B5%D1%82%3F;%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB+%F0%9F%90%A2"> -->
 
 
+
+
+<!--  -->
+<!--  -->
+<!--  -->
+<!-- Свалка всякой красивости :) -->
+
 <!-- <p align="center"><picture><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=38&pause=1000&color=F9CF664A&center=true&vCenter=true&width=435&lines=%D0%A3+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B2%D1%81%D1%91+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%81%D1%8F!+%E2%9C%A8"></picture></p> -->
+
+<!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LetMeFly666&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetMeFly666&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
