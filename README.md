@@ -116,10 +116,10 @@ $$
   <picture><img src="https://img.shields.io/badge/PYTHON-d9e7f3?style=for-the-badge&logo=Python&logoColor=3776AB"></picture>
 </summary>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/FLASK-d9e7f3?style=for-the-badge&logo=flask&logoColor=black"></picture>
-<picture><img src="https://img.shields.io/badge/numpy-d9e7f3?style=for-the-badge&logo=numpy&logoColor=013243"></picture>
-<picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=Apache&logoColor=3776AB"></picture>  
-<picture><img src="https://img.shields.io/badge/AIOGRAM-d9e7f3?style=for-the-badge&logo=telegram&logoColor=26A5E4"></picture>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pypi.org/project/Flask/"><picture><img src="https://img.shields.io/badge/FLASK-d9e7f3?style=for-the-badge&logo=flask&logoColor=black"></picture></a>
+<a href="https://www.djangoproject.com/"><picture><img src="https://img.shields.io/badge/django-d9e7f3?style=for-the-badge&logo=django&logoColor=013243"></picture></a>
+<a href="https://pandas.pydata.org/"><picture><img src="https://img.shields.io/badge/pandas-d9e7f3?style=for-the-badge&logo=pandas&logoColor=013243"></picture></a>
+<a href="https://docs.python.org/3/library/tkinter.html"><picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=Apache&logoColor=3776AB"></picture></a>
 </p>
 </details>
 
