@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.159372720641867 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">43</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.2793581327498185 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">44</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2742</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.972343522561863 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">25</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.45123726346434 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">26</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/687</text>
                                 </svg>
                                 <span class="title">Easy</span>
