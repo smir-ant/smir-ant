@@ -1,6 +1,3 @@
-
-
-
 <!-- Star history: <img src="https://api.star-history.com/svg?repos=AkashSingh3031/The-Complete-FAANG-Preparation&type=Timeline" width="100%" height="100%"> -->
 
 
@@ -195,7 +192,13 @@ $$
     <img>
   </picture>
   </summary>
-  <a href="https://leetcode.com/smir-ant/"><img src="leetcode.svg"></a>
+  <a href="https://leetcode.com/smir-ant/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/smir-ant?theme=dark&font=Graduate">
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/smir-ant?theme=unicorn&font=Graduate">
+    <img width="400">
+  </picture>
+  </a>
 </details>
 
 <!-- ==================== CodeForces ==================== -->
