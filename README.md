@@ -154,7 +154,7 @@ $$
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/GIT-f2ffcf?style=for-the-badge&logo=Git&logoColor=F05032"></picture>
 <picture><img src="https://img.shields.io/badge/GITHUB-f2ffcf?style=for-the-badge&logo=Github&logoColor=181717"></picture>
-<picture><img title="(Сижу на Ubuntu с 06.05.2023)" src="https://img.shields.io/badge/Linux-f2ffcf?style=for-the-badge&logo=Linux&logoColor=181717"></picture>  
+<picture><img title="(С 06.05.23. Mint.)" src="https://img.shields.io/badge/Linux-f2ffcf?style=for-the-badge&logo=Linux&logoColor=181717"></picture>  
 <picture><img src="https://img.shields.io/badge/ARDUINO-f2ffcf?style=for-the-badge&logo=Arduino&logoColor=1a969e"></picture>
 </p>
 </details>
