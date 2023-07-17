@@ -2,29 +2,28 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v2
         with:
-          github_user_name: smir-ant
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - run: git status
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            # github user name to read the contribution graph from (**required**)
+            # using action context var `github.repository_owner` or specified user
+            github_user_name: smir-ant
+
+            # list of files to generate.
+            # one file per line. Each output can be customized with options as query string.
+            #
+            #  supported options:
+            #  - palette:     A preset of color, one of [github, github-dark, github-light]
+            #  - color_snake: Color of the snake
+            #  - color_dots:  Coma separated list of dots color.
+            #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+            #                 Exactly 5 colors are expected.
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+              dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
