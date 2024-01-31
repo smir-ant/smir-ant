@@ -116,6 +116,8 @@ $$
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.pyrogram.org/"><picture><img src="https://img.shields.io/badge/pyrogram-d9e7f3?style=for-the-badge&logo=telegram&logoColor=3776AB"></picture></a>
 <a href="https://pypi.org/project/Flask/"><picture><img src="https://img.shields.io/badge/FLASK-d9e7f3?style=for-the-badge&logo=flask&logoColor=black"></picture></a>
 <a href="https://www.djangoproject.com/"><picture><img src="https://img.shields.io/badge/django-d9e7f3?style=for-the-badge&logo=django&logoColor=013243"></picture></a>
+<a href="https://scrapy.org/"><picture><img src="https://img.shields.io/badge/scrapy-d9e7f3?style=for-the-badge&logo=scrapy&logoColor=06B632"></picture></a>
+<a href="https://scrapy.org/"><picture><img src="https://img.shields.io/badge/beautifulsoup-d9e7f3?style=for-the-badge&logo=pastebin&logoColor=02456C"></picture></a>
 <a href="https://pandas.pydata.org/"><picture><img src="https://img.shields.io/badge/pandas-d9e7f3?style=for-the-badge&logo=pandas&logoColor=013243"></picture></a>
 <a href="https://docs.python.org/3/library/tkinter.html"><picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=Apache&logoColor=3776AB"></picture></a>
 </p>
