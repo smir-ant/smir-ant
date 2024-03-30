@@ -113,15 +113,63 @@ $$
   <picture><img src="https://img.shields.io/badge/PYTHON-d9e7f3?style=for-the-badge&logo=Python&logoColor=3776AB"></picture>
 </summary>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.pyrogram.org/"><picture><img src="https://img.shields.io/badge/pyrogram-d9e7f3?style=for-the-badge&logo=telegram&logoColor=3776AB"></picture></a>
-<a href="https://pypi.org/project/Flask/"><picture><img src="https://img.shields.io/badge/FLASK-d9e7f3?style=for-the-badge&logo=flask&logoColor=black"></picture></a>
-<a href="https://www.djangoproject.com/"><picture><img src="https://img.shields.io/badge/django-d9e7f3?style=for-the-badge&logo=django&logoColor=013243"></picture></a>
-<a href="https://scrapy.org/"><picture><img src="https://img.shields.io/badge/scrapy-d9e7f3?style=for-the-badge&logo=scrapy&logoColor=06B632"></picture></a>
-<a href="https://scrapy.org/"><picture><img src="https://img.shields.io/badge/beautifulsoup-d9e7f3?style=for-the-badge&logo=pastebin&logoColor=02456C"></picture></a>
-<a href="https://pandas.pydata.org/"><picture><img src="https://img.shields.io/badge/pandas-d9e7f3?style=for-the-badge&logo=pandas&logoColor=013243"></picture></a>
-<a href="https://docs.python.org/3/library/tkinter.html"><picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=Apache&logoColor=3776AB"></picture></a>
-</p>
+<!-- Python.Backend -->
+<kbd>
+<details>
+  <summary>
+      <picture><img src="https://img.shields.io/badge/backend-d9e7f3?style=for-the-badge&logo=googlesearchconsole&logoColor=683D87"></picture>
+</summary>
+&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/FLASK-d9e7f3?style=for-the-badge&logo=flask&logoColor=black"></picture>
+<picture><img src="https://img.shields.io/badge/django-d9e7f3?style=for-the-badge&logo=django&logoColor=013243"></picture>
 </details>
+</kbd>
+
+<!-- Python.Парсинг -->
+<kbd>
+<details>
+  <summary>
+      <picture><img src="https://img.shields.io/badge/Парсинг-d9e7f3?style=for-the-badge&logo=readdotcv&logoColor=683D87"></picture>
+</summary>
+&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/scrapy-d9e7f3?style=for-the-badge&logo=scrapy&logoColor=06B632"></picture>
+<picture><img src="https://img.shields.io/badge/beautifulsoup-d9e7f3?style=for-the-badge&logo=pastebin&logoColor=02456C"></picture>
+<picture><img src="https://img.shields.io/badge/selenium-d9e7f3?style=for-the-badge&logo=selenium&logoColor=43B02A"></picture>
+</details>
+</kbd>
+
+<!-- Python.Боты -->
+<kbd>
+<details>
+  <summary>
+      <picture><img src="https://img.shields.io/badge/Боты-d9e7f3?style=for-the-badge&logo=aseprite&logoColor=683D87"></picture>
+</summary>
+&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/pyrogram-d9e7f3?style=for-the-badge&logo=telegram&logoColor=3776AB"></picture>
+<picture><img src="https://img.shields.io/badge/aiogram-d9e7f3?style=for-the-badge&logo=telegram&logoColor=3776AB"></picture>
+
+</details>
+</kbd>
+
+<!-- Python.DataScience -->
+<kbd>
+<details>
+  <summary>
+      <picture><img src="https://img.shields.io/badge/DataScience-d9e7f3?style=for-the-badge&logo=soundcharts&logoColor=683D87"></picture>
+</summary>
+&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/pandas-d9e7f3?style=for-the-badge&logo=pandas&logoColor=013243"></picture>
+<picture><img src="https://img.shields.io/badge/ipython-d9e7f3?style=for-the-badge&logo=jupyter&logoColor=F37626"></picture>
+</details>
+</kbd>
+
+<!-- Python.GUI -->
+<kbd>
+<details>
+  <summary>
+      <picture><img src="https://img.shields.io/badge/gui-d9e7f3?style=for-the-badge&logo=materialdesignicons&logoColor=683D87"></picture>
+</summary>
+&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=Apache&logoColor=3776AB"></picture>
+</details>
+</kbd>
+</details>
+
 
 <!-- WEB -->
 <details>
