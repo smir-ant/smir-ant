@@ -183,16 +183,25 @@ $$
 <picture><img src="https://img.shields.io/badge/BOOTSTRAP-d5c7e9?style=for-the-badge&logo=bootstrap&logoColor=7951b2"></picture>
 </p>
 </details>
+
+
+<!-- RUST -->
+<details>
+<summary>
+  <picture><img src="https://img.shields.io/badge/rust-ffccba?style=for-the-badge&logo=rust&logoColor=000000"></picture>
+</summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Учу...
+</details>
  
 
 <!-- DATABASES -->
 <details>
 <summary>
-  <picture><img src="https://img.shields.io/badge/БАЗЫ ДАННЫХ-ffccba?style=for-the-badge&logo=Databricks&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/БАЗЫ ДАННЫХ-ffb1b1?style=for-the-badge&logo=Databricks&logoColor=black"></picture>
 </summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/SQLite-ffccba?style=for-the-badge&logo=SQLITE&logoColor=0e7ec8"></picture>
-<picture><img src="https://img.shields.io/badge/PostgreSQL-ffccba?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"></picture>
-<picture><img src="https://img.shields.io/badge/SQLALCHEMY-ffccba?style=for-the-badge&logo=Openlayers&logoColor=cc2307"></picture>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/SQLite-ffb1b1?style=for-the-badge&logo=SQLITE&logoColor=0e7ec8"></picture>
+<picture><img src="https://img.shields.io/badge/PostgreSQL-ffb1b1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"></picture>
+<picture><img src="https://img.shields.io/badge/SQLALCHEMY-ffb1b1?style=for-the-badge&logo=Openlayers&logoColor=cc2307"></picture>
 </p>
 </details>  
 
