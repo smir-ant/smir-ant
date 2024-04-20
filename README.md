@@ -229,7 +229,7 @@ $$
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/VSCode-fff8b5?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC"></picture>
 <picture><img src="https://img.shields.io/badge/Photoshop-fff8b5?style=for-the-badge&logo=AdobePhotoshop&logoColor=0e3e67"></picture>
-<picture><img src="https://img.shields.io/badge/Davinci Resolve-fff8b5?style=for-the-badge&logo=Kuaishou&logoColor=0e3e67"></picture> 
+<picture><img src="https://img.shields.io/badge/Davinci Resolve-fff8b5?style=for-the-badge&logo=davinciresolve&logoColor=233A51"></picture> 
 <picture><img src="https://img.shields.io/badge/Notion-fff8b5?style=for-the-badge&logo=Notion&logoColor=black"></picture>
 <picture><img src="https://img.shields.io/badge/Figma-fff8b5?style=for-the-badge&logo=figma&logoColor=fe4201"></picture>
 </p>
@@ -291,9 +291,13 @@ $$
   <a href="https://www.codewars.com/users/smir-ant"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=3c7ebb">
     <source media="(prefers-color-scheme: light)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=light&primaryColor=3c7ebb">
-    <img width="450">
+    <img align="left" width="450">
   </picture></a>
-    
+  <!-- <table>
+  <tr>
+  <td> -->
+  <picture><img src="https://img.shields.io/badge/4_kyu-python-3776AB?style=for-the-badge"><br></picture>
+  <picture><img src="https://img.shields.io/badge/7_kyu-rust-e37933?style=for-the-badge"></picture><br><picture><img src="https://img.shields.io/badge/8_kyu-sql-d03c23?style=for-the-badge"></picture><br><picture><img src="https://img.shields.io/badge/8_kyu-js-ffdb00?style=for-the-badge"></picture>
 </details>
 
 <!-- ==================== Достижения ==================== 
@@ -310,6 +314,10 @@ $$
 </details> -->
 
 <!-- Лютый конструктор: metrics.lecoq.io/ -->
+
+<!-- Разрыв -->
+<picture><img src="https://user-images.githubusercontent.com/84059957/203399419-887c9bb7-421f-4a27-88bc-03fb7eabb8db.png"></picture>
+
 
 <!-- Каеффный генератор текста: https://readme-typing-svg.demolab.com/demo/ -->
 
