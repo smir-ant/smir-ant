@@ -168,6 +168,17 @@ $$
 &nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/tkinter-d9e7f3?style=for-the-badge&logo=Apache&logoColor=3776AB"></picture>
 </details>
 </kbd>
+
+<!-- Python.Test -->
+<kbd>
+<details>
+  <summary>
+      <picture><img src="https://img.shields.io/badge/Тестирование-d9e7f3?style=for-the-badge&logo=helpdesk&logoColor=683D87"></picture>
+</summary>
+&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/pytest-d9e7f3?style=for-the-badge&logo=pytest&logoColor=3776AB"></picture>
+<picture><img src="https://img.shields.io/badge/unittest-d9e7f3?style=for-the-badge&logo=python&logoColor=3776AB"></picture>
+</details>
+</kbd>
 </details>
 
 
@@ -190,7 +201,7 @@ $$
 <summary>
   <picture><img src="https://img.shields.io/badge/rust-ffccba?style=for-the-badge&logo=rust&logoColor=000000"></picture>
 </summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Учу...
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В процессе освоения...
 </details>
  
 
