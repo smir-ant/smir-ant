@@ -308,7 +308,7 @@ $$
   <tr>
   <td> -->
   <picture><img src="https://img.shields.io/badge/4_kyu-python-3776AB?style=for-the-badge"><br></picture>
-  <picture><img src="https://img.shields.io/badge/6_kyu-rust-e37933?style=for-the-badge"></picture><br><picture><img src="https://img.shields.io/badge/8_kyu-sql-d03c23?style=for-the-badge"></picture><br><picture><img src="https://img.shields.io/badge/8_kyu-js-ffdb00?style=for-the-badge"></picture>
+  <picture><img src="https://img.shields.io/badge/5_kyu-rust-e37933?style=for-the-badge"></picture><br><picture><img src="https://img.shields.io/badge/8_kyu-sql-d03c23?style=for-the-badge"></picture><br><picture><img src="https://img.shields.io/badge/8_kyu-js-ffdb00?style=for-the-badge"></picture>
 </details>
 
 <!-- ==================== Достижения ==================== 
