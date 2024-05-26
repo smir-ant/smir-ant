@@ -307,7 +307,7 @@ $$
   <!-- <table>
   <tr>
   <td> -->
-  <picture><img src="https://img.shields.io/badge/4_kyu-rust-e37933?style=for-the-badge"></picture><br>
+  <picture><img src="https://img.shields.io/badge/3_kyu-rust-e37933?style=for-the-badge"></picture><br>
   <picture><img src="https://img.shields.io/badge/4_kyu-python-3776AB?style=for-the-badge"></picture><br>
   <picture><img src="https://img.shields.io/badge/7_kyu-js-ffdb00?style=for-the-badge"></picture><br>
   <picture><img src="https://img.shields.io/badge/8_kyu-sql-d03c23?style=for-the-badge"></picture>
