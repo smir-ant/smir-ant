@@ -300,14 +300,14 @@ $$
   </summary>
   
   <a href="https://www.codewars.com/users/smir-ant"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=3c7ebb">
-    <source media="(prefers-color-scheme: light)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=light&primaryColor=3c7ebb">
+    <source media="(prefers-color-scheme: dark)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=dark&primaryColor=9075DF">
+    <source media="(prefers-color-scheme: light)" srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=smir-ant&theme=light&primaryColor=9075DF">
     <img align="left" width="450">
   </picture></a>
   <!-- <table>
   <tr>
   <td> -->
-  <picture><img src="https://img.shields.io/badge/3_kyu-rust-e37933?style=for-the-badge"></picture><br>
+  <picture><img src="https://img.shields.io/badge/2_kyu-rust-e37933?style=for-the-badge"></picture><br>
   <picture><img src="https://img.shields.io/badge/4_kyu-python-3776AB?style=for-the-badge"></picture><br>
   <picture><img src="https://img.shields.io/badge/7_kyu-js-ffdb00?style=for-the-badge"></picture><br>
   <picture><img src="https://img.shields.io/badge/8_kyu-sql-d03c23?style=for-the-badge"></picture>
