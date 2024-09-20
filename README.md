@@ -190,6 +190,7 @@ $$
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/HTML-d5c7e9?style=for-the-badge&logo=html5&logoColor=e34f27"></picture>
 <picture><img src="https://img.shields.io/badge/CSS-d5c7e9?style=for-the-badge&logo=css3&logoColor=blue"></picture>  
+<picture><img src="https://img.shields.io/badge/tailwind-d5c7e9?style=for-the-badge&logo=tailwindcss&logoColor=blue"></picture>  
 <picture><img src="https://img.shields.io/badge/JS-d5c7e9?style=for-the-badge&logo=javascript&logoColor=e1bd00"></picture>
 <picture><img src="https://img.shields.io/badge/BOOTSTRAP-d5c7e9?style=for-the-badge&logo=bootstrap&logoColor=7951b2"></picture>
 </p>
@@ -225,6 +226,7 @@ $$
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/GIT-f2ffcf?style=for-the-badge&logo=Git&logoColor=F05032"></picture>
 <picture><img src="https://img.shields.io/badge/GITHUB-f2ffcf?style=for-the-badge&logo=Github&logoColor=181717"></picture>
+<picture><img src="https://img.shields.io/badge/GITHUB Action-f2ffcf?style=for-the-badge&logo=yaml&logoColor=181717"></picture>
 <picture><img src="https://img.shields.io/badge/Markdown-f2ffcf?style=for-the-badge&logo=Markdown&logoColor=000000"></picture>
 <picture><img title="(06.05.23-05.02.24. Fedora KDE как полностью основная система)" src="https://img.shields.io/badge/Linux-f2ffcf?style=for-the-badge&logo=Linux&logoColor=181717"></picture>  
 <picture><img src="https://img.shields.io/badge/ARDUINO-f2ffcf?style=for-the-badge&logo=Arduino&logoColor=1a969e"></picture>
