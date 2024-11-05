@@ -202,7 +202,23 @@ $$
 <summary>
   <picture><img src="https://img.shields.io/badge/rust-ffccba?style=for-the-badge&logo=rust&logoColor=000000"></picture>
 </summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В процессе освоения...
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Разочаровался (imposible сложность в многопотоке/асинхроне), хоть и влюбился в идеи, логичность и итераторы здешние
+</details>
+
+<!-- Golang -->
+<details>
+<summary>
+  <picture><img src="https://img.shields.io/badge/golang-d9e7f3?style=for-the-badge&logo=go&logoColor=3776AB"></picture>
+</summary>
+<kbd>
+<details>
+  <summary>
+      <picture><img src="https://img.shields.io/badge/backend-d9e7f3?style=for-the-badge&logo=googlesearchconsole&logoColor=683D87"></picture>
+</summary>
+&nbsp;&nbsp;&nbsp;<picture><img src="https://img.shields.io/badge/Fiber-d9e7f3?style=for-the-badge&logo=icloud&logoColor=black"></picture>
+<picture><img src="https://img.shields.io/badge/Jet-d9e7f3?style=for-the-badge&logo=html5&logoColor=013243"></picture>
+</details>
+</kbd>
 </details>
  
 
