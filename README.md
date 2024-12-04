@@ -202,7 +202,7 @@ $$
 <summary>
   <picture><img src="https://img.shields.io/badge/rust-ffccba?style=for-the-badge&logo=rust&logoColor=000000"></picture>
 </summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Разочаровался (imposible сложность в многопотоке/асинхроне), хоть и влюбился в идеи, логичность и итераторы здешние
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ковыряю, пробую. Статус: уважаю и заглядываюсь.
 </details>
 
 <!-- Golang -->
