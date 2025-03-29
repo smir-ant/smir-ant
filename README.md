@@ -199,7 +199,7 @@ $$
 <summary>
   <picture><img src="https://img.shields.io/badge/rust-ffccba?style=for-the-badge&logo=rust&logoColor=000000"></picture>
 </summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ковыряю, пробую. Статус: уважаю и заглядываюсь.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Господь бог, обожаю этот язык. В процессе глубокого освоения и практического применения. Пишу курс, ибо язык непрост, но это лучший опыт, и язык награждает тебя, если ты готов бороться со skill issue
 </details>
 
 <!-- Golang -->
